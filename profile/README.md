@@ -3,7 +3,7 @@
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=F52486&center=true&width=800&lines=Howdy+Miners!">
-<img src="https://cdn.discordapp.com/attachments/843883777402601552/865511846940508210/2021-07-16_13.59.58.png">
+<img src="https://cdn.discordapp.com/attachments/843883776103022602/908820084481474631/2021-07-16_13.59.58.png">
 	
 ---
 	
